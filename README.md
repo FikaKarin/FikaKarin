@@ -2,6 +2,7 @@
 
 ### Hi, I'm Karin Lundqvist
 ---
+I'm a driven and creative Front End student, based in Stockholm, Sweden.
 
 
 
