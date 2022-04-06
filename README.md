@@ -8,8 +8,8 @@ I'm a driven and creative Front End student, based in Stockholm, Sweden.
 
 
 - 🔭 I’m currently working on a React project for employment services/job center.
-- 🌱 I’m currently learning Back End and creating a project with CMS via Wordpress, NodeJS.
-- 👯 I’m looking for LIA/praktik from 28:e november 2022 - 16 april 2023 as a Front End student.
+- 🌱 I’m currently learning Back End and creating a project with headless CMS in Strapi together with front on Wordpress, also basic NodeJS.
+- 👯 My LIA / internship will be at RedMind from november 2022 - april 2023.
 - 💬 Ask me about good second hand spots and my favorite italian restaurant.
 - 📫 How to reach me: mailtolundqvist@gmail.com
 - 😄 Pronouns: whatever makes you comfortable, I guess.
