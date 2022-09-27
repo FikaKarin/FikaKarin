@@ -7,8 +7,8 @@ I'm a driven and creative Front End student, based in Stockholm, Sweden.
 
 
 
-- 🔭 I’m currently working on a React front end project for school. 
-- 🌱 I’m currently learning Back End and creating a project with headless CMS in Strapi together with front on Wordpress, also basic NodeJS.
+- 🔭 I’m currently working on a React front end project for school. I'm creating an app based on a Figma prototype from a group assignment.
+- 🌱 I’m currently learning Typescript, Redux and React Native outside of school.
 - 👯 My LIA / internship will be at RedMind from november 2022 - april 2023.
 - 💬 Ask me about good second hand spots and my favorite italian restaurant.
 - 📫 How to reach me: mailtolundqvist@gmail.com
