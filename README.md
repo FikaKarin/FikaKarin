@@ -7,11 +7,9 @@ I'm a driven and creative Front End student, based in Stockholm, Sweden.
 
 
 
-- 🔭 I’m currently working on a React front end project for school. I'm creating an app based on a Figma prototype from a group assignment.
-- 🌱 I’m currently learning Typescript, Redux and React Native outside of school.
-- 👯 My LIA / internship will be at RedMind from november 2022 - april 2023.
+- 🔭 I’m currently working @ RedMind as Junior software developer for Hormona. 
+- 🌱 I’m currently working in Typescript, React Native and Xcode.
 - 💬 Ask me about good second hand spots and my favorite italian restaurant.
 - 📫 How to reach me: mailtolundqvist@gmail.com
-- 😄 Pronouns: whatever makes you comfortable, I guess.
-- ⚡ Fun fact: I'm a professional dancer and choreographer in modern, commercial hiphop and jazz.
+- ⚡ Fun fact: I'm a professional dancer, choreographer and teacher in modern, commercial hiphop and jazz.
 - 👾 Discord: Karin Lundqvist#6674
