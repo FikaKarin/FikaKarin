@@ -7,7 +7,7 @@ I'm a driven and creative Front End student, based in Stockholm, Sweden. Graduat
 
 
 
-- 🔭 I’m currently working @ RedMind as Junior software developer for Hormona.
+- 🔭 I’m currently working @ RedMind as a Software developer for Hormona.
 - 🌱 I’m currently working in Typescript, React Native, Redux, Figma, ShortCut, Android studios, Xcode.
 - 💬 Ask me about good second hand spots and my favorite italian restaurant.
 - 📫 How to reach me: mailtolundqvist@gmail.com
