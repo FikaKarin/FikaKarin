@@ -2,14 +2,14 @@
 
 ### Hi, I'm Karin Lundqvist
 ---
-I'm a driven and creative Front End student, based in Stockholm, Sweden. Graduating May 2023.
+I'm a driven and creative Front End developer with a passion for code, smart sollutions and creative UI.
 
 
 
 
-- 🔭 I’m currently working @ RedMind as a Software developer for Hormona.
-- 🌱 I’m currently working in Typescript, React Native, Redux, Figma, ShortCut, Android studios, Xcode.
+- 🔭 I graduated as a Front End developer from KYH in May 2023!
+- 🌱 I've recently been working in React, Typescript, React Native, Redux, Figma, Android studios, Xcode.
 - 💬 Ask me about good second hand spots and my favorite italian restaurant.
 - 📫 How to reach me: mailtolundqvist@gmail.com
-- ⚡ Fun fact: I'm a professional dancer, choreographer and teacher in modern, commercial hiphop and jazz.
+- ⚡ Fun fact: I like the rainy and snowy days just as much as the sunny ones.
 - 👾 Discord: Karin Lundqvist#6674
